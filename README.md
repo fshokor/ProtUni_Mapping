@@ -1,6 +1,8 @@
 # ProtUni_Mapping
 Mapping the Protein Universe using Deep Learning Variational Autoencoder.
 
+Note: Training done using google collab
+
 ## Requierements
 
 - tensorflow                    2.7.0
