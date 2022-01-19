@@ -1,7 +1,7 @@
 # ProtUni_Mapping
 Mapping the Protein Universe using Deep Learning Variational Autoencoder.
 
-Note: Training done using google collab
+Note: Training done using google colab
 
 ## Requierements
 
