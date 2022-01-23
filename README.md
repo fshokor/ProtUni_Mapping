@@ -33,8 +33,8 @@ $ cd ProtUni_Mapping
 - `data_generation.ipynb`
     - Generate random sequences 
     - Generate sequences with expected probability
-    - Mutate sequences randomly
-    - Muatate sequence based on blossum transition matrix
+    - Generate mutate sequences randomly
+    - Generate mutate sequence based on blossum transition matrix
 - `dataframe.ipynb`
     - Generate dataframe for each sequences type
 - `embedding.ipynb`
